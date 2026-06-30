@@ -90,7 +90,7 @@ Just double-click `index.html` — it opens in your browser instantly.
 3. Under **Source**, select `main` branch → `/ (root)` → **Save**
 4. Your site will be live at:
    ```
-   https://your-username.github.io/repository-name/
+   (https://sami-gujjar.github.io/My-Portfolio/)
    ```
 
 ---
