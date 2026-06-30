@@ -82,13 +82,7 @@ Just double-click `index.html` — it opens in your browser instantly.
 > ⚠️ **Important:** All 3 files (`index.html`, `style.css`, `script.js`) must be in the **same folder**.
 
 ---
-
-## 🌐 Deploy to GitHub Pages (Free Hosting)
-
-1. Push this repo to GitHub (see steps below)
-2. Go to your repo → **Settings** → **Pages**
-3. Under **Source**, select `main` branch → `/ (root)` → **Save**
-4. Your site will be live at:
+4.site will be live at:
    ```
    (https://sami-gujjar.github.io/My-Portfolio/)
    ```
